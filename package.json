@@ -1,0 +1,32 @@
+{
+  "name": "clean-blog",
+  "version": "1.0.0",
+  "description": "patika.dev clean blog project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtkrkrt/Clean_BLog.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "clean",
+    "blog"
+  ],
+  "author": "Murat Karakurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtkrkrt/Clean_BLog/issues"
+  },
+  "homepage": "https://github.com/mrtkrkrt/Clean_BLog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
